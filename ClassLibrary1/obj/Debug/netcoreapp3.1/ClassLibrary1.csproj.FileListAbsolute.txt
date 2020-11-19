@@ -1,0 +1,8 @@
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb

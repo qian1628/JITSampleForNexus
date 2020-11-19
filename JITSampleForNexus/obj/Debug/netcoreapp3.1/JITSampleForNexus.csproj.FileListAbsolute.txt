@@ -1,0 +1,16 @@
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.csprojAssemblyReference.cache
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.AssemblyInfo.cs
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.exe
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.deps.json
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.runtimeconfig.json
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.runtimeconfig.dev.json
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.dll
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\JITSampleForNexus.pdb
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.csproj.CopyComplete
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.dll
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.pdb
+C:\Users\vsdiagtester\source\repos\JITSampleForNexus\JITSampleForNexus\obj\Debug\netcoreapp3.1\JITSampleForNexus.genruntimeconfig.cache
